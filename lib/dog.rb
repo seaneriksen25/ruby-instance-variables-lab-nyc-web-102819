@@ -8,7 +8,10 @@ class Dog
   end
 end
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4c89444bff2736974d4f000c22f263a34bc26aa1
 lassie = Dog.new
 lassie.name = "Lassie"
  
